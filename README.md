@@ -25,7 +25,7 @@ ASSEMBLY Organizing is the marketing name of the Finnish company Assembly Organi
 * ASSEMBLY Organizing is responsible for maintaining competition management system and if necessarily will update the system to provide fair treatment to all authors
 * ASSEMBLY Organizing agrees to show a Work that has passed qualification in fair circumstances on the competition provided that this is not prevented by a force majure situation
 * ASSEMBLY Organizing agrees to its best ability to take care of the fatherhood rights of the Author that is to name the Author whenever the Work is presented
-* ASSEMBLY Organizing agrees to pay the winners of the competitions the prizes announced at the ASSEMBLY WWW-site according to spesific competition rules and general rules. The damages caused to the party place during the event will be reduced from the prizes.
+* ASSEMBLY Organizing agrees to pay the winners of the competitions the prizes announced at the ASSEMBLY WWW-site according to specific competition rules and general rules. The damages caused to the party place during the event will be reduced from the prizes.
 
 ## Changing of the contract terms
 This contract can be altered when the Author and ASSEMBLY Organizing both agree on the change of terms. In case ASSEMBLY Organizing wants to change the terms of the contract and the Author does not agree to the change, the contract can be unilaterally terminated by ASSEMBLY Organizing after a 30 days notice period.
